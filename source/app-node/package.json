@@ -1,0 +1,14 @@
+{
+  "name": "app",
+  "version": "0.0.1",
+  "main":"app.js",
+  "private": true,
+  "author":"Test",
+  "description": "For test ",
+  "dependencies": {
+    "express": "latest",
+    "body-parser": "latest",
+    "http": "latest",
+	"mysql": "latest"
+  }
+}
